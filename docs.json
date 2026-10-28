@@ -648,6 +648,10 @@
     {
       "source": "/activity/log",
       "destination": "/hiring/timeline"
+    },
+    {
+      "source": "/vi/whats-new/:slug*",
+      "destination": "/whats-new/:slug*"
     }
   ]
 }
