@@ -540,52 +540,6 @@
               "vi/help/faq",
               "vi/help/glossary"
             ]
-          },
-          {
-            "tab": "Có gì mới",
-            "icon": "sparkles",
-            "pages": [
-              "vi/whats-new/changelog",
-              {
-                "group": "2026",
-                "icon": "calendar",
-                "pages": [
-                  "vi/whats-new/2026-10",
-                  "vi/whats-new/2026-09",
-                  "vi/whats-new/2026-08",
-                  "vi/whats-new/2026-07",
-                  "vi/whats-new/2026-06",
-                  "vi/whats-new/2026-05",
-                  "vi/whats-new/2026-04",
-                  "vi/whats-new/2026-03",
-                  "vi/whats-new/2026-02",
-                  "vi/whats-new/2026-01"
-                ]
-              },
-              {
-                "group": "2025",
-                "icon": "calendar",
-                "pages": [
-                  "vi/whats-new/2025-12",
-                  "vi/whats-new/2025-11",
-                  "vi/whats-new/2025-10",
-                  "vi/whats-new/2025-09",
-                  "vi/whats-new/2025-08",
-                  "vi/whats-new/2025-07",
-                  "vi/whats-new/2025-06",
-                  "vi/whats-new/2025-05",
-                  "vi/whats-new/2025-04",
-                  "vi/whats-new/2025-03",
-                  "vi/whats-new/2025-02",
-                  "vi/whats-new/2025-01"
-                ]
-              }
-            ]
-          },
-          {
-            "tab": "Có gì mới",
-            "icon": "sparkles",
-            "href": "/vi/whats-new/changelog"
           }
         ]
       }
